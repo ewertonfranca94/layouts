@@ -34,6 +34,20 @@
                 <h2 class="text-browse">Browse The Range</h2>
                 <p class="browse-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
             </div>
+            <div class="rooms">
+                <div class="dining">
+                    <img src="images/dining.jpg" alt="">
+                    <p class="text-rooms">Dining</p>
+                </div>
+                <div class="living">
+                    <img src="images/living.png" alt="">
+                    <p class="text-rooms">Living</p>
+                </div>
+                <div class="bedroom">
+                    <img src="images/bedroom.png" alt="">  
+                    <p class="text-rooms">Bedroom</p>  
+                </div>
+            </div>
 
         </div>
     </section>
