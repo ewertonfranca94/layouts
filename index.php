@@ -28,5 +28,14 @@
         </div>
 
     </section>
+    <section class="second-section">
+        <div class="second-section-container">
+            <div class="browse">
+                <h2 class="text-browse">Browse The Range</h2>
+                <p class="browse-description">Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+            </div>
+
+        </div>
+    </section>
 </body>
 </html>
